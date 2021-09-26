@@ -1,0 +1,119 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "name": "Rabindranath Tagore",
+        "age": "80",
+        "profession": "Poet",
+        "fans": "30000000",
+        "img": "https://learnodo-newtonic.com/wp-content/uploads/2019/03/Rabindranath-Tagore.webp",
+        "country": "India"
+    },
+    {
+        "key": "B002RL8IYV",
+        "name": "Kazi Nazrul Islam",
+        "age": "75",
+        "profession": "Poet",
+        "fans": "50040000",
+        "img": "https://images.prothomalo.com/prothomalo-english%2Fimport%2Fmedia%2F2014%2F05%2F29%2F5387333c00b6c-Nazrul-Islam.jpg?auto=format&fit=fill&bg=000000&q=35&w=1200",
+        "country": "BD"
+    },
+    {
+        "key": "B01LZ2WZGH",
+        "name": "Jayanta Mahapatra",
+        "age": "65",
+        "profession": "Poet",
+        "fans": "10000000",
+        "img": "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_500/MTc0NjQyMDMzNDcyOTcyNzkw/famous-poets-top-10-indian-poets-of-all-time.webp",
+        "country": "India"
+    },
+    {
+        "key": "B01K1IO3QW",
+        "name": "Sarojini Naidu",
+        "age": "60",
+        "profession": "Poet",
+        "fans": "6000000",
+        "img": "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_500/MTc0NjQyMDMzNDczMDM4MzI2/famous-poets-top-10-indian-poets-of-all-time.webp",
+        "country": "India"
+    },
+    {
+        "key": "B01LD4MGY4",
+        "name": "Nissim Ezekiel",
+        "age": "80",
+        "profession": "Poet",
+        "fans": "20000000",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSaYhQlYnCzrBPS4NZt_mIUKFwk5QFB9gKOy6DvaH4k_cQf4ZOIJhEdFggh-0aE0FJPGg&usqp=CAU",
+        "country": "India"
+    },
+    {
+        "key": "B01M18UZF5",
+        "name": "Sri Aurobindo Ghosh",
+        "age": "70",
+        "profession": "Poet",
+        "fans": "30000000",
+        "img": "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_500/MTc0NjQyMDMzNDcyOTA3MjU0/famous-poets-top-10-indian-poets-of-all-time.webp",
+        "country": "India"
+    },
+    {
+        "key": "B01DBGVB7K",
+        "name": "Kamala Das",
+        "age": "70",
+        "profession": "Poet",
+        "fans": "20500000",
+        "img": "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_500/MTc0NjQyMDMzNDcyODQxNzE4/famous-poets-top-10-indian-poets-of-all-time.webp",
+        "country": "BD"
+    },
+    {
+        "key": "B015WXL0C6",
+        "name": "Abdul Rahim Khan",
+        "age": "70",
+        "profession": "Poet",
+        "fans": "30400000",
+        "img": "https://learnodo-newtonic.com/wp-content/uploads/2019/03/Rahim.webp",
+        "country": "India"
+    },
+    {
+        "key": "B06Y4GZS9C",
+        "name": "KAMALA DAS",
+        "age": "59",
+        "profession": "Poet",
+        "fans": "10500000",
+        "img": "https://learnodo-newtonic.com/wp-content/uploads/2019/03/Kamala-Das.webp",
+        "country": "BD"
+    },
+    {
+        "key": "B06XJJG4PD",
+        "name": "Sampooran Singh Kalra",
+        "age": "80",
+        "profession": "Poet",
+        "fans": "20900000",
+        "img": "https://learnodo-newtonic.com/wp-content/uploads/2019/03/Gulzar.webp",
+        "country": "BD"
+    },
+    {
+        "key": "B01NBE6Y5D",
+        "name": "KABIR",
+        "age": "83",
+        "profession": "Poet",
+        "fans": "30300000",
+        "img": "https://learnodo-newtonic.com/wp-content/uploads/2019/03/Kabir.webp",
+        "country": "India"
+    },
+    {
+        "key": "B01J42JPJG",
+        "name": "SAROJINI NAIDU",
+        "age": "69",
+        "profession": "Poet",
+        "fans": "10500300",
+        "img": "https://learnodo-newtonic.com/wp-content/uploads/2019/03/Sarojini-Naidu.webp",
+        "country": "India"
+    },
+    {
+        "key": "B01F4ZG68A",
+        "name": "MIRZA GHALIB",
+        "age": "86",
+        "profession": "Poet",
+        "fans": "20300040",
+        "img": "https://learnodo-newtonic.com/wp-content/uploads/2019/03/Mirza-Ghalib.webp",
+        "country": "India"
+    }
+]
