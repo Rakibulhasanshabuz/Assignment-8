@@ -3,7 +3,7 @@
  
 
 
-This is site link: => https://sports-hero.netlify.app/
+This is site link: => 
 
 # In this project i used
 . font-awesome
